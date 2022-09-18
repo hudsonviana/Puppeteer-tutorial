@@ -1,950 +1,998 @@
 [
   {
-    "id": 0,
-    "title": "Computador Intel Core I5 8gb 240gb Ssd. Total",
-    "price": "R$ 905,00",
-    "image": "https://m.media-amazon.com/images/I/61GiE2virML._AC_UL320_.jpg"
-  },
-  {
     "id": 1,
-    "title": "Computador Completo Intel Core i5 8GB SSD 480GB Windows 10 Monitor 19\" HDMI 3green ElitePC Slim",
-    "price": "R$ 2.073,98",
-    "image": "https://m.media-amazon.com/images/I/61xm1msZ6NL._AC_UL320_.jpg"
-  },
-  {
-    "id": 2,
-    "title": "PC HOME OFFICE INTEL CORE i7 3770 - 16GB - SSD 480GB - GABINETE GAMER VX - 500W REAL- WINDOWS 10 ORIGINAL LIDER 4",
-    "price": "R$ 1.634,99",
-    "image": "https://m.media-amazon.com/images/I/51gtFjSX3XL._AC_UL320_.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Computador Pc Cpu Intel Core i5 Com Hdmi 8GB HD 500GB Windows 10 Wifi Desktop",
-    "price": "R$ 954,00",
-    "image": "https://m.media-amazon.com/images/I/519CpLs066L._AC_UL320_.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Easypc Computador Completo Intel Core i5 8GB SSD 240GB Monitor LED 19.5\" HDMI Go, Preto",
-    "price": "R$ 1.592,78",
-    "image": "https://m.media-amazon.com/images/I/61fPqhbDdDL._AC_UL320_.jpg"
-  },
-  {
-    "id": 5,
-    "title": "PC Gamer Completo AMD 6-Core CPU 3.8Ghz 8GB (Placa de vídeo Radeon R5 2GB) SSD 120GB Kit Gamer Skill Gaming Monitor HDMI LED 19.5\", 40475, Preto, Média",
-    "price": "R$ 2.191,20",
-    "image": "https://m.media-amazon.com/images/I/81datM9VpRS._AC_UL320_.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Computador Completo Intel Core i5 8GB SSD 480GB Windows 10 Monitor 19\" HDMI 3green ElitePC",
-    "price": "R$ 2.399,00",
-    "image": "https://m.media-amazon.com/images/I/811im6l7G7S._AC_UL320_.jpg"
-  },
-  {
-    "id": 7,
-    "title": "PC Intel Core i5 6 Geração, 8GB RAM, SSD 120GB Leve um copo Stanley",
-    "price": "R$ 1.650,00",
-    "image": "https://m.media-amazon.com/images/I/41oLySkeiZL._AC_UL320_.jpg"
-  },
-  {
-    "id": 8,
-    "title": "Computador CorPC Intel Core i3 4GB DDR3, HD 500GB e Monitor LED 19.5, PRETO, Média, 6584",
-    "price": "R$ 1.317,49",
-    "image": "https://m.media-amazon.com/images/I/518nL4oxwAL._AC_UL320_.jpg"
-  },
-  {
-    "id": 9,
-    "title": "Pc Cpu Intel Core I5 Quad Core + 8gbram + ssd 240gb",
-    "price": "R$ 1.179,49",
-    "image": "https://m.media-amazon.com/images/I/51eTowUSF+L._AC_UL320_.jpg"
-  },
-  {
-    "id": 10,
-    "title": "Computador Completo Intel Core i5 8GB SSD 240GB Monitor 17\" Hdmi",
-    "price": "R$ 1.585,00",
-    "image": "https://m.media-amazon.com/images/I/71QBwRNlIcL._AC_UL320_.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Computador Completo Intel Core i5 8GB SSD 128GB Monitor 17\" Hdmi",
-    "price": "R$ 1.548,00",
-    "image": "https://m.media-amazon.com/images/I/71jBu0BcR4L._AC_UL320_.jpg"
-  },
-  {
-    "id": 12,
-    "title": "Computador Completo Intel Core i5 8gb SSD 120GB Monitor Hdmi",
-    "price": "R$ 1.579,00",
-    "image": "https://m.media-amazon.com/images/I/41kaCtuXnwL._AC_UL320_.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Computador Intel Core i5 16GB SSD 240GB EasyPC Go",
-    "price": "R$ 1.120,00",
-    "image": "https://m.media-amazon.com/images/I/71fMER1GMvS._AC_UL320_.jpg"
-  },
-  {
-    "id": 14,
-    "title": "Computador Pc Cpu Intel Core i5 Com Hdmi 8GB HD 500GB Windows 10 Wifi Desktop",
-    "price": "R$ 935,00",
-    "image": "https://m.media-amazon.com/images/I/519CpLs066L._AC_UL320_.jpg"
-  },
-  {
-    "id": 15,
-    "title": "Computador Completo Intel Core i5 8gb SSD 240GB Monitor Hdmi",
-    "price": "R$ 1.643,57",
-    "image": "https://m.media-amazon.com/images/I/614sG5PFF6L._AC_UL320_.jpg"
-  },
-  {
-    "id": 16,
-    "title": "Computador Intel Core i5 Com Hdmi 8GB HD 1TB Windows 10 Desktop",
-    "price": "R$ 999,00",
-    "image": "https://m.media-amazon.com/images/I/61W+o62-SyL._AC_UL320_.jpg"
-  },
-  {
-    "id": 17,
-    "title": "Computador Completo Core i5 8GB SSD 256GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
-    "price": "R$ 1.548,00",
-    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
-  },
-  {
-    "id": 18,
-    "title": "Pc Gamer Intel Core i7 3770-3.90 GHz,16GB RAM, Placa de vídeo 2GB, SSD 512GB, Fonte 500w, Gabinete GAMER",
-    "price": "R$ 1.909,00",
-    "image": "https://m.media-amazon.com/images/I/51zQsIiFcRL._AC_UL320_.jpg"
-  },
-  {
-    "id": 19,
-    "title": "Computador Completo Intel Core i5 8GB SSD 512GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.899,00",
-    "image": "https://m.media-amazon.com/images/I/716F6614nqL._AC_UL320_.jpg"
-  },
-  {
-    "id": 20,
-    "title": "PC Intel Core i5, 8GB RAM DDR3, HD SSD 240GB",
-    "price": "R$ 902,00",
-    "image": "https://m.media-amazon.com/images/I/41IEMsyGFiL._AC_UL320_.jpg"
-  },
-  {
-    "id": 21,
-    "title": "Pc Cpu Intel Core I5 3º3470 3,2ghz+8gbram+ssd 240gb Promoção",
-    "price": "R$ 905,00",
-    "image": "https://m.media-amazon.com/images/I/41vwcRH2haL._AC_UL320_.jpg"
-  },
-  {
-    "id": 22,
-    "title": "All in One LG 22V280-L.BY31P1 - Intel Quad Core, 4GB, 500GB, 21,5” Full HD, Windows 10",
-    "price": "R$ 2.199,00",
-    "image": "https://m.media-amazon.com/images/I/31E3nirrmeL._AC_UL320_.jpg"
-  },
-  {
-    "id": 23,
-    "title": "Computador Desktop Business Intel Core i3 3.0Ghz / 4Gb DDR3 / HD 500GB / Monitor LED 19 Kit - Flex Computer",
-    "price": "R$ 1.359,00",
-    "image": "https://m.media-amazon.com/images/I/61huNT3KZ2L._AC_UL320_.jpg"
-  },
-  {
-    "id": 24,
-    "title": "PC Gamer Mancer (AMD Ryzen 7 5700G, 16GB DDR4, SSD 240GB, HD 1TB, 500W)",
-    "price": "R$ 4.055,90",
-    "image": "https://m.media-amazon.com/images/I/61u9iBBGsbL._AC_UL320_.jpg"
-  },
-  {
-    "id": 25,
     "title": "Computador Completo Core i5 4GB SSD 128GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
     "price": "R$ 1.450,00",
     "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
   },
   {
-    "id": 26,
-    "title": "Cpu Computador Pc Intel Core I5 4ª Geração/Ssd 240gb, 8gb Memória Ram - PROMOÇÃO!",
-    "price": "R$ 1.099,00",
-    "image": "https://m.media-amazon.com/images/I/31KwKwu-7XL._AC_UL320_.jpg"
+    "id": 2,
+    "title": "Computador Completo Intel Core i5 8GB SSD 240GB Monitor 17\" Hdmi",
+    "price": "R$ 1.585,00",
+    "image": "https://m.media-amazon.com/images/I/71QBwRNlIcL._AC_UL320_.jpg"
   },
   {
-    "id": 27,
-    "title": "PC Intel Core i7 até 3,80 GHz, 8GB RAM DDR3, HD 500GB + SSD 120GB Melhor Preço!!",
-    "price": "R$ 1.250,00",
-    "image": "https://m.media-amazon.com/images/I/61E7vT0W88L._AC_UL320_.jpg"
-  },
-  {
-    "id": 28,
-    "title": "Cpu Intel Core I7 3770 1600 Mhz + 16gb + Ssd240gb",
-    "price": "R$ 1.225,00",
-    "image": "https://m.media-amazon.com/images/I/41IEMsyGFiL._AC_UL320_.jpg"
-  },
-  {
-    "id": 29,
-    "title": "Strong Tech Computador Completo Intel Core i5 8GB SSD 240GB Monitor 19\" HDMI Teclado e Mouse, Preto",
-    "price": "R$ 1.640,00",
-    "image": "https://m.media-amazon.com/images/I/71zK62UPYEL._AC_UL320_.jpg"
-  },
-  {
-    "id": 30,
-    "title": "Computador Completo Intel Core i5 8GB SSD 240GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.660,20",
-    "image": "https://m.media-amazon.com/images/I/71yNlWZnwAL._AC_UL320_.jpg"
-  },
-  {
-    "id": 31,
-    "title": "Strong Tech Computador Completo Intel Core i5 8GB SSD 120GB Monitor 19\" HDMI Teclado e Mouse, Preto",
-    "price": "R$ 1.550,00",
-    "image": "https://m.media-amazon.com/images/I/71gVquYXakL._AC_UL320_.jpg"
-  },
-  {
-    "id": 32,
-    "title": "Computador Completo Intel Core i5 8GB HD 1TB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.830,00",
-    "image": "https://m.media-amazon.com/images/I/71g9bW04IAL._AC_UL320_.jpg"
-  },
-  {
-    "id": 33,
-    "title": "PC Gamer OnGaming® Ryzen 5 5600G, Radeon™ Graphics Vega 7, 16GB Ram, SSD 240GB, Gabinete RGB",
-    "price": "R$ 3.134,00",
-    "image": "https://m.media-amazon.com/images/I/61rPwqa-osL._AC_UL320_.jpg"
-  },
-  {
-    "id": 34,
-    "title": "PC Gamer Arena Powered By Asus, Ryzen 5 5600G, Radeon™ Graphics Vega 7, 16GB Ram, SSD 240GB, Gabinete RGB",
-    "price": "R$ 3.199,00",
-    "image": "https://m.media-amazon.com/images/I/51QRmwAg1AL._AC_UL320_.jpg"
-  },
-  {
-    "id": 35,
-    "title": "Skill Gaming PC Gamer AMD 6-Core CPU 3.8Ghz 8GB (Placa de vídeo Radeon R5 2GB) SSD 120GB Casual, Preto, Média, 40453",
-    "price": "R$ 1.619,19",
-    "image": "https://m.media-amazon.com/images/I/51juJ9+3zwL._AC_UL320_.jpg"
-  },
-  {
-    "id": 36,
-    "title": "Computador Completo Intel Core i5 8GB SSD 480GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech Slim",
-    "price": "R$ 2.100,00",
-    "image": "https://m.media-amazon.com/images/I/61Cs7P50TbL._AC_UL320_.jpg"
-  },
-  {
-    "id": 37,
-    "title": "Computador CPU i7, 16GB DDR3, SSD 480GB ~ Promoção ~",
-    "price": "R$ 1.685,29",
-    "image": "https://m.media-amazon.com/images/I/51vWr2rn8fL._AC_UL320_.jpg"
-  },
-  {
-    "id": 38,
-    "title": "PC Gamer AMD Ryzen 5 2400G, 16 GB de RAM DDR4, SSD 512 GB, Gráficos Radeon RX Vega 11, Gabinete GAMER com LED",
-    "price": "R$ 3.380,00",
-    "image": "https://m.media-amazon.com/images/I/511-wWD4c8L._AC_UL320_.jpg"
-  },
-  {
-    "id": 39,
-    "title": "Computador Completo Intel Core i5 8GB HD 500GB Monitor 17\" Hdmi",
-    "price": "R$ 1.550,00",
-    "image": "https://m.media-amazon.com/images/I/71xJYH86kJL._AC_UL320_.jpg"
-  },
-  {
-    "id": 40,
-    "title": "Computador Mancer Home Office (AMD RYZEN 5 4650G, 8GB DDR4, SSD 240GB, 200W, Combat)",
-    "price": "R$ 2.078,90",
-    "image": "https://m.media-amazon.com/images/I/51pdQ6toPbL._AC_UL320_.jpg"
-  },
-  {
-    "id": 41,
-    "title": "Computador Completo Intel Core i5 8GB SSD 120GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.599,50",
-    "image": "https://m.media-amazon.com/images/I/71+EoATWJfL._AC_UL320_.jpg"
-  },
-  {
-    "id": 42,
-    "title": "Computador Completo Home and Business Intel Core i3 RAM 4GB HD 500GB Monitor 19.5\" LED Quantum, PRETO, Média, 37817",
-    "price": "R$ 1.390,40",
-    "image": "https://m.media-amazon.com/images/I/61J-0L3GhCL._AC_UL320_.jpg"
-  },
-  {
-    "id": 43,
-    "title": "COMPUTADOR BUSINESS B300 - CORE I3 3220 3.3GHZ MEM 4GB DDR3 SEM HD/SSD HDMI/VGA FONTE 200W - SKUL",
-    "price": "R$ 1.485,37",
-    "image": "https://m.media-amazon.com/images/I/71slGzoMT9L._AC_UL320_.jpg"
-  },
-  {
-    "id": 44,
-    "title": "Computador Completo Core i5 4GB SSD 256GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
-    "price": "R$ 1.499,00",
-    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
-  },
-  {
-    "id": 45,
-    "title": "Computador Completo Intel Core i3 8GB SSD 240GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.574,00",
-    "image": "https://m.media-amazon.com/images/I/71GLsWtj8YL._AC_UL320_.jpg"
-  },
-  {
-    "id": 46,
-    "title": "Computador Completo Pc Cpu Monitor 19\" Intel Core i3 Turbo 4GB SSD 120GB Hdmi Teclado e Mouse Desktop",
-    "price": "R$ 1.449,00",
-    "image": "https://m.media-amazon.com/images/I/71bKD6erIeL._AC_UL320_.jpg"
-  },
-  {
-    "id": 47,
-    "title": "Strong Tech Computador Completo Intel Core i5 8GB HD 500GB Monitor 17\" HDMI Teclado e Mouse, Preto",
-    "price": "R$ 1.535,00",
-    "image": "https://m.media-amazon.com/images/I/71PHa93J0UL._AC_UL320_.jpg"
-  },
-  {
-    "id": 48,
-    "title": "GHY Protetor de Tela Azul 27 Polegadas (diagonal) para Proporção 16:9 Computador, Filtros de Tela de Computador para Tensão Ocular, Miopia, Proteção UV, Antiarranhões para Tela de Monitor de Computador",
-    "price": "R$ 600,00",
-    "image": "https://m.media-amazon.com/images/I/81DiOBSesyL._AC_UL320_.jpg"
-  },
-  {
-    "id": 49,
-    "title": "Computador Completo Core i5 8GB SSD 256GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
-    "price": "R$ 1.548,00",
-    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
-  },
-  {
-    "id": 50,
-    "title": "Computador Intel Core i5 Com Hdmi 8GB HD 500GB Wifi Desktop Pc",
-    "price": "R$ 1.099,00",
-    "image": "https://m.media-amazon.com/images/I/519CpLs066L._AC_UL320_.jpg"
-  },
-  {
-    "id": 51,
-    "title": "Caixa de Som Mini Stage Solo Bluetooth 5.3 Speaker com Som Estéreo e HiFi, 3 Modos de Luz RGB e Conexões, Alimentado por USB Plug & Play para Computador, Desktop, Laptop, Projector, PS4, PS5 Portáteis",
-    "price": "R$ 279,00",
-    "image": "https://m.media-amazon.com/images/I/71Eh2UZRV-L._AC_UL320_.jpg"
-  },
-  {
-    "id": 52,
-    "title": "Computador Completo Core i5 8GB SSD 128GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
-    "price": "R$ 1.496,00",
-    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
-  },
-  {
-    "id": 53,
-    "title": "PC Gamer ITX Arena, Core i5 10400F, NVidia GeForce RTX 3050 8GB, Ram 16GB, SSD 240GB, Gabinete Gamer",
-    "price": "R$ 5.199,00",
-    "image": "https://m.media-amazon.com/images/I/616OaG9Fh6L._AC_UL320_.jpg"
-  },
-  {
-    "id": 54,
-    "title": "Mini Desktop PC Qcta-Core i9 9880H, Windows 11 Mini Computador, 16GB DDR4 RAM 512GB NVME SSD, UHD Gráficos 630,HDMI,DP,USB3.0,Gigabit RJ45 LAN,WiFi AC,Bluetooth,LIGAÇÃO AUTOMÁTICA,19V Low Consumo de PC",
-    "price": "R$ 2.975,00",
-    "image": "https://m.media-amazon.com/images/I/51WVx-9UuKL._AC_UL320_.jpg"
-  },
-  {
-    "id": 55,
-    "title": "COMPUTADOR GAMER CORE I5 9400F 2.9GHZ (Turbo 4.1GHz) MEM. 8GB DDR4 SSD 160GB HD 1TB FONTE 600W 80 PLUS - SEM VÍDEO (NECESSÁRIO ESCOLHER A PLACA DE VÍDEO DE SUA PREFERÊNCIA) - SKUL",
-    "price": "R$ 2.635,16",
-    "image": "https://m.media-amazon.com/images/I/61ypSkA1NHL._AC_UL320_.jpg"
-  },
-  {
-    "id": 56,
-    "title": "Computador Completo Intel Core i5 8GB HD 2TB Monitor 19.5\" LED HDMI Áudio 5.1 canais Quantum Star",
-    "price": "R$ 1.831,71",
-    "image": "https://m.media-amazon.com/images/I/51nBooqCQLL._AC_UL320_.jpg"
-  },
-  {
-    "id": 57,
-    "title": "Computador Completo Intel Core i7 8GB SSD 512GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 2.090,00",
-    "image": "https://m.media-amazon.com/images/I/71rPtgDvd3L._AC_UL320_.jpg"
-  },
-  {
-    "id": 58,
-    "title": "Computador Mancer Home Office (AMD RYZEN 5 4650G, 16GB DDR4, HD 1TB, SSD 120GB, 500W, Stryker)",
-    "price": "R$ 2.683,90",
-    "image": "https://m.media-amazon.com/images/I/51VzVlf-XvL._AC_UL320_.jpg"
-  },
-  {
-    "id": 59,
-    "title": "Computador EasyPC Standard Intel Core i3 4GB DDR3 HD 500GB HDMI FullHD audio 5.1",
-    "price": "R$ 906,88",
-    "image": "https://m.media-amazon.com/images/I/41+H1IE9+ML._AC_UL320_.jpg"
-  },
-  {
-    "id": 60,
-    "title": "Computador Completo Intel Core i5 8GB HD 1TB Monitor HDMI 19.5\" Áudio 5.1 canais PC CPU Windows 10 Quantum Slim Flex",
-    "price": "R$ 2.031,49",
-    "image": "https://m.media-amazon.com/images/I/51ruvWk188L._AC_UL320_.jpg"
-  },
-  {
-    "id": 61,
-    "title": "Computador Pc Cpu Intel Core i5 Com HDMI 16GB HD SSD 240GB Windows 10 + Wifi Desktop AMAZOM",
-    "price": "Null",
-    "image": "https://m.media-amazon.com/images/I/51LtJlwPChL._AC_UL320_.jpg"
-  },
-  {
-    "id": 62,
-    "title": "Beelink Mini PC GK35 Windows 10 Pro Intel N3350, SSD 4G DDR3/64G compatível com alimentação automática, WOL, 4K HD, BT4.0, portas HDMI duplas, 2.4G/5G Dual WiFi, Gigabit Ethernet, Mini computador desktop para escritório",
-    "price": "R$ 840,80",
-    "image": "https://m.media-amazon.com/images/I/61m5fEutPfL._AC_UL320_.jpg"
-  },
-  {
-    "id": 63,
-    "title": "Computador Pc Intel Core i5 8GB SSD 480GB Hdmi Teclado e Mouse Cpu Desktop",
-    "price": "R$ 1.451,00",
-    "image": "https://m.media-amazon.com/images/I/51DR+PlgiKL._AC_UL320_.jpg"
-  },
-  {
-    "id": 64,
-    "title": "Computador Completo PC CPU Monitor 19.5\" HDMI Intel Core i3 6GB HD 500GB com teclado e mouse Desktop Wifi CorPC, PRETO, 18880",
-    "price": "Null",
-    "image": "https://m.media-amazon.com/images/I/612L4H-VcVL._AC_UL320_.jpg"
-  },
-  {
-    "id": 65,
-    "title": "Computador Completo Intel Core i5 8GB HD 1TB Monitor HDMI 19.5\" Áudio 5.1 canais PC CPU Windows 10 Quantum Flex, Preto",
-    "price": "R$ 1.997,59",
-    "image": "https://m.media-amazon.com/images/I/510kWmK78vL._AC_UL320_.jpg"
-  },
-  {
-    "id": 66,
-    "title": "Cpu Intel Core I5 4gb Ssd 120.promoção",
-    "price": "R$ 819,00",
-    "image": "https://m.media-amazon.com/images/I/41qaTIoeutL._AC_UL320_.jpg"
-  },
-  {
-    "id": 67,
-    "title": "3Green Computador Gamer Intel Core i5 10GB HD 500GB Nvidia Geforce GT EasyPC Light 2, Preto",
-    "price": "R$ 1.430,00",
-    "image": "https://m.media-amazon.com/images/I/51Kk4Vm+J7S._AC_UL320_.jpg"
-  },
-  {
-    "id": 68,
-    "title": "Microfone USB, microfone para computador PC JOUNIVO com botão mudo para streaming, podcasts, gravação vocal; microfone para jogos para laptop, Mac ou Windows",
-    "price": "R$ 89,00",
-    "image": "https://m.media-amazon.com/images/I/51KYOFKC80L._AC_UL320_.jpg"
-  },
-  {
-    "id": 69,
-    "title": "Microfone de conferência USB, com 3 portas USB 2.0 Hub; Microfone de computador omnidirecional de 360° com botão mudo para reuniões de zoom, gravação, Skype, classe online (JV805)",
-    "price": "R$ 129,00",
-    "image": "https://m.media-amazon.com/images/I/51G8rxED1aL._AC_UL320_.jpg"
-  },
-  {
-    "id": 70,
-    "title": "Microfone de conferência USB para computador, JOUNIVO JV808 PC Desktop Laptop Omnidirecional Plug & Play com botão Touch Mute Compatível com Windows MacOS para reuniões, Skype, Zoom Call, Classe online",
-    "price": "R$ 109,00",
-    "image": "https://m.media-amazon.com/images/I/61Phg4AmN5L._AC_UL320_.jpg"
-  },
-  {
-    "id": 71,
-    "title": "Mochila leve para laptop, mochila de negócios, bolsa de nylon para computador e escola universitária, mochila com porta de carregamento USB",
-    "price": "R$ 134,18",
-    "image": "https://m.media-amazon.com/images/I/61fI4L9c9BL._AC_UL320_.jpg"
-  },
-  {
-    "id": 72,
-    "title": "PC Gamer ITX Arena Setup, AMD Athlon 3000G, Radeon Vega 3, 16GB Ram, SSD 240GB, Gabinete Gamer",
-    "price": "R$ 2.099,00",
-    "image": "https://m.media-amazon.com/images/I/51fDSee7QwL._AC_UL320_.jpg"
-  },
-  {
-    "id": 73,
-    "title": "PC Completo Intel Core i5, 8GB Ram, HD SSD 120GB, Monitor 18,5\" LED, Teclado, Mouse e Wi-fi - MEGA -",
-    "price": "R$ 2.820,00",
-    "image": "https://m.media-amazon.com/images/I/614dTuQ4HSL._AC_UL320_.jpg"
-  },
-  {
-    "id": 74,
-    "title": "Pc Intel Core i7 3º 8gb Hd 1TB Wi-fi",
-    "price": "R$ 1.878,09",
-    "image": "https://m.media-amazon.com/images/I/41NUfDif1RL._AC_UL320_.jpg"
-  },
-  {
-    "id": 75,
-    "title": "Computador Completo Intel Core i5 8GB HD 500GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.597,00",
-    "image": "https://m.media-amazon.com/images/I/71UcLaLmt3L._AC_UL320_.jpg"
-  },
-  {
-    "id": 76,
-    "title": "Capa de mouse EVA estável durável, bolsa de armazenamento prático portátil de alta qualidade para computador G900",
-    "price": "Null",
-    "image": "https://m.media-amazon.com/images/I/61pK7czFq6L._AC_UL320_.jpg"
-  },
-  {
-    "id": 77,
-    "title": "PC GAMER AMD RYZEN 7 5800X / MEMORIA 32GB DDR4 / SSD 480 / RTX 3060 12GB / GABINETE GAMER",
-    "price": "R$ 20.000,00",
-    "image": "https://m.media-amazon.com/images/I/51r-L3jnLmL._AC_UL320_.jpg"
-  },
-  {
-    "id": 78,
-    "title": "Computador Desktop Completo com Monitor LED HDMI Intel Core i5 8GB HD 500GB com caixas de som mouse e teclado CorPC Standard Plus, Easypc, Preto, Média, 25061",
-    "price": "R$ 1.700,00",
-    "image": "https://m.media-amazon.com/images/I/61NHJX-cM7L._AC_UL320_.jpg"
-  },
-  {
-    "id": 79,
-    "title": "Computador Pc Intel Core i3 4GB HD 500GB Hdmi Cpu Desktop",
-    "price": "R$ 899,00",
-    "image": "https://m.media-amazon.com/images/I/61e-0XL9w4L._AC_UL320_.jpg"
-  },
-  {
-    "id": 80,
-    "title": "Computador Completo Pc Cpu Monitor 19” Intel Core i3 Hdmi 8GB HD 500GB com Teclado e Mouse Desktop",
-    "price": "R$ 1.435,12",
-    "image": "https://m.media-amazon.com/images/I/61uTQNrmu5L._AC_UL320_.jpg"
-  },
-  {
-    "id": 81,
-    "title": "Computador Completo Intel Core i5 8GB SSD 256GB Monitor 17\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.587,00",
-    "image": "https://m.media-amazon.com/images/I/71T6At1q10L._AC_UL320_.jpg"
-  },
-  {
-    "id": 82,
-    "title": "Stick de memória, unidade flash de longa vida útil à prova d'água para alto-falantes de TVs de computadores e laptops(#4)",
-    "price": "R$ 102,56",
-    "image": "https://m.media-amazon.com/images/I/61JzGehC7oL._AC_UL320_.jpg"
-  },
-  {
-    "id": 83,
-    "title": "Computador Completo Pc Cpu Monitor 19” Intel Core i3 Hdmi 4GB SSD 120GB com Teclado e Mouse Desktop",
-    "price": "R$ 1.458,00",
-    "image": "https://m.media-amazon.com/images/I/71t95QxjhYL._AC_UL320_.jpg"
-  },
-  {
-    "id": 84,
-    "title": "Computador Intel Core i5 8GB SSD 480GB EasyPC Go",
-    "price": "R$ 1.409,70",
-    "image": "https://m.media-amazon.com/images/I/61abx6RBvZS._AC_UL320_.jpg"
-  },
-  {
-    "id": 85,
-    "title": "PC GAMER MANCER AMD RYZEN 5 4600G, 16GB DDR4, SSD 240GB",
-    "price": "R$ 2.658,90",
-    "image": "https://m.media-amazon.com/images/I/61FPw-FlbuL._AC_UL320_.jpg"
-  },
-  {
-    "id": 86,
-    "title": "Computador Completo Intel Core i7 8GB SSD 120GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.899,00",
-    "image": "https://m.media-amazon.com/images/I/71--PGkRSML._AC_UL320_.jpg"
-  },
-  {
-    "id": 87,
-    "title": "COMPUTADOR HOME H100 - CELERON DUAL CORE J1800 2.41GHZ MEM 4GB DDR3 SODIMM SEM HD/SSD HDMI/VGA FONTE 200W - SKUL",
-    "price": "R$ 836,87",
-    "image": "https://m.media-amazon.com/images/I/71Zb+oN3psL._AC_UL320_.jpg"
-  },
-  {
-    "id": 88,
-    "title": "Computador Completo Intel Core i5 4GB SSD 128GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.599,00",
-    "image": "https://m.media-amazon.com/images/I/71fIqxOWJwL._AC_UL320_.jpg"
-  },
-  {
-    "id": 89,
-    "title": "Computador Completo Intel Dual Core 4GB HD 500GB Monitor 19.5\" HDMI Full HD Áudio 5.1 canais Skill DC",
-    "price": "R$ 1.999,94",
-    "image": "https://m.media-amazon.com/images/I/71S4Bj5PDGL._AC_UL320_.jpg"
-  },
-  {
-    "id": 90,
-    "title": "Computador Desktop Completo Quantum Intel Core i3 6GB HD 500GB Monitor 19.5\" HDMI LED com mouse e teclado, PRETO, Média, 29230",
-    "price": "R$ 1.402,49",
-    "image": "https://m.media-amazon.com/images/I/514LJSiNUeL._AC_UL320_.jpg"
-  },
-  {
-    "id": 91,
-    "title": "Computador Intel® Core™ i3-2100 3.1GHz 8GB SSD 128GB | Goldentec",
-    "price": "R$ 1.170,00",
-    "image": "https://m.media-amazon.com/images/I/51KdyCjHThL._AC_UL320_.jpg"
-  },
-  {
-    "id": 92,
-    "title": "Computador Pc Intel Core i7 8GB SSD 512GB Hdmi Teclado e Mouse Cpu Desktop",
-    "price": "R$ 1.750,00",
-    "image": "https://m.media-amazon.com/images/I/51DR+PlgiKL._AC_UL320_.jpg"
-  },
-  {
-    "id": 93,
-    "title": "Easypc Computador Gamer Completo com Monitor LED Intel Core i5 8GB HD 500GB (Nvidia Geforce GT) Kit gamer com mousepad Light, Preto, 24865",
-    "price": "R$ 4.580,50",
-    "image": "https://m.media-amazon.com/images/I/61OG-dB4osL._AC_UL320_.jpg"
-  },
-  {
-    "id": 94,
-    "title": "Computador Completo Intel Core i3 4GB SSD 128GB Monitor 17\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.445,00",
-    "image": "https://m.media-amazon.com/images/I/71Fpn3eLFFL._AC_UL320_.jpg"
-  },
-  {
-    "id": 95,
-    "title": "PAC-MAN e as Aventuras Fantasmagóricas",
-    "price": "Null",
-    "image": "https://m.media-amazon.com/images/I/71yq+ZZVGPL._AC_UL320_.jpg"
-  },
-  {
-    "id": 96,
-    "title": "Computador Completo Pc Cpu Monitor 19\" Intel Core i3 Turbo 4GB HD 500GB Hdmi Teclado e Mouse Desktop",
-    "price": "R$ 1.445,00",
-    "image": "https://m.media-amazon.com/images/I/71RMwVqLN7L._AC_UL320_.jpg"
-  },
-  {
-    "id": 97,
-    "title": "Computador Goldentec F-GCL com Intel® Core™ i3-2100 3.1GHz 8GB SSD 120GB",
+    "id": 3,
+    "title": "Computador Pc Intel Core i5 8GB HD 1TB Hdmi Cpu Desktop",
     "price": "R$ 1.350,00",
-    "image": "https://m.media-amazon.com/images/I/51G1nE5m2WS._AC_UL320_.jpg"
+    "image": "https://m.media-amazon.com/images/I/61rEg95kiGL._AC_UL320_.jpg"
   },
   {
-    "id": 98,
-    "title": "Computador Intel Core i5 Com Hdmi 8GB HD 1TB Windows 10 Teclado Mouse Desktop Pc",
-    "price": "R$ 1.060,00",
-    "image": "https://m.media-amazon.com/images/I/61l2D5a90-L._AC_UL320_.jpg"
-  },
-  {
-    "id": 99,
-    "title": "Computador Mancer Home Office (AMD RYZEN 5 4650G, 16GB DDR4, SSD 120GB, 500W, Stryker)",
-    "price": "R$ 2.426,90",
-    "image": "https://m.media-amazon.com/images/I/51aG0LuvMZL._AC_UL320_.jpg"
-  },
-  {
-    "id": 100,
-    "title": "CPU HOME OFFICE CORE I5, 16GB, SSD 240GB, GABINETE COM FONTE",
-    "price": "R$ 1.079,00",
-    "image": "https://m.media-amazon.com/images/I/419c3-h3EaL._AC_UL320_.jpg"
-  },
-  {
-    "id": 101,
-    "title": "Computador Completo Intel Core i5 Memória RAM 8Gb SSD 240GB",
-    "price": "R$ 2.849,00",
-    "image": "https://m.media-amazon.com/images/I/511ZJ1sBH2L._AC_UL320_.jpg"
-  },
-  {
-    "id": 102,
-    "title": "Cpu I3 4gb SSD 240gb *20X MAIS RÁPIDO*",
-    "price": "R$ 900,00",
-    "image": "https://m.media-amazon.com/images/I/41Us-KCnFkL._AC_UL320_.jpg"
-  },
-  {
-    "id": 103,
-    "title": "Computador Pc Intel Core i7 8GB SSD 256GB Hdmi Teclado e Mouse Cpu Desktop",
-    "price": "R$ 1.439,00",
-    "image": "https://m.media-amazon.com/images/I/51DR+PlgiKL._AC_UL320_.jpg"
-  },
-  {
-    "id": 104,
-    "title": "TECLADO PARA COMPUTADOR KG-300 KINGO",
-    "price": "R$ 48,00",
-    "image": "https://m.media-amazon.com/images/I/31HbRnPfIFS._AC_UL320_.jpg"
-  },
-  {
-    "id": 105,
-    "title": "Kit de limpeza de fone de ouvido de teclado de tela de laptop para Airpods Pro MacBook iPad iPhone iPod, wal rfid Caneta de limpeza multifuncional Airpod Escova ferramenta removedor de chave para monitor de PC, TV, telefone, computador, fone de ouvido (Rosa)",
-    "price": "R$ 107,99",
-    "image": "https://m.media-amazon.com/images/I/51dLJ6UoZnL._AC_UL320_.jpg"
-  },
-  {
-    "id": 106,
-    "title": "CHIWEI FreeBook 13.5'', Notebook e tablet computador portátil RAM 12GB 512GB SSD, Ultra Slim Tela cheia ao toque, WiFi, BT4.2, Windows 11",
-    "price": "R$ 3.199,00",
-    "image": "https://m.media-amazon.com/images/I/51UWFi0021L._AC_UL320_.jpg"
-  },
-  {
-    "id": 107,
-    "title": "1PCS 6177R-M4AXP Series B Computer New No Box",
-    "price": "R$ 8.144,48",
-    "image": "https://m.media-amazon.com/images/I/51kf9AY0gsL._AC_UL320_.jpg"
-  },
-  {
-    "id": 108,
-    "title": "Computador Completo Intel Core i5 4GB HD 1TB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.799,00",
-    "image": "https://m.media-amazon.com/images/I/71Vhw30WWtL._AC_UL320_.jpg"
-  },
-  {
-    "id": 109,
-    "title": "PC Intel Core i5 4ª Geração, 4GB RAM DDR3, HD SSD 480GB",
-    "price": "R$ 2.250,00",
-    "image": "https://m.media-amazon.com/images/I/61E7vT0W88L._AC_UL320_.jpg"
-  },
-  {
-    "id": 110,
-    "title": "Computador E3 Nano Intel Dual Core J1800, 4GB, SSD 120GB, 46NEMPC0B8NF - Elgin",
-    "price": "R$ 1.159,00",
-    "image": "https://m.media-amazon.com/images/I/514SP0z48sL._AC_UL320_.jpg"
-  },
-  {
-    "id": 111,
-    "title": "Computador Completo Intel Core i5 4GB HD 500GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.579,00",
-    "image": "https://m.media-amazon.com/images/I/71cY0AZRsTL._AC_UL320_.jpg"
-  },
-  {
-    "id": 112,
-    "title": "PAC-MAN e as Aventuras Fantasmagóricas",
-    "price": "Null",
-    "image": "https://m.media-amazon.com/images/I/71yq+ZZVGPL._AC_UL320_.jpg"
-  },
-  {
-    "id": 113,
-    "title": "Computador Completo Intel Core i5 8GB SSD 240GB Monitor 19\" Webcam Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.620,00",
-    "image": "https://m.media-amazon.com/images/I/71igKIrj-uL._AC_UL320_.jpg"
-  },
-  {
-    "id": 114,
-    "title": "Computador Completo Intel Core i3 6GB SSD 120GB Monitor Hdmi Teclado e Mouse Strong Tech",
-    "price": "R$ 1.460,00",
-    "image": "https://m.media-amazon.com/images/I/71vcXU8IThL._AC_UL320_.jpg"
-  },
-  {
-    "id": 115,
-    "title": "COMPUTADOR CORE I7, 8GB, SSD 480GB, GABINETE ATX, FONTE ATX, HERTZ INFORMATICA",
-    "price": "R$ 1.549,00",
-    "image": "https://m.media-amazon.com/images/I/41-c3JqqJrL._AC_UL320_.jpg"
-  },
-  {
-    "id": 116,
-    "title": "Computador Completo Core i5 4° Geração 8gb Hd 500gb + Monitor 18.5 + Wi-fi",
-    "price": "R$ 2.699,00",
-    "image": "https://m.media-amazon.com/images/I/51qAaRMeHDL._AC_UL320_.jpg"
-  },
-  {
-    "id": 117,
-    "title": "COMPUTADOR BUSINESS B700 - I7 8700 3.2GHZ 8GB DDR4 SSD 240GB HDMI/VGA FONTE 500W - SKUL",
-    "price": "R$ 5.611,45",
-    "image": "https://m.media-amazon.com/images/I/61d-BJymhJL._AC_UL320_.jpg"
-  },
-  {
-    "id": 118,
-    "title": "COMPUTADOR GAMER 1000 - ATHLON 3000G 3.5GHZ MEM. 8GB DDR4 SSD 240GB RX 550 4GB FONTE 500W - SKUL",
-    "price": "R$ 3.712,42",
-    "image": "https://m.media-amazon.com/images/I/6139pRaplzL._AC_UL320_.jpg"
-  },
-  {
-    "id": 119,
-    "title": "Unidade flash, stick de memória portátil portátil em formato de coração retro para computador, carro, alto-falante BT, TV(#8)",
-    "price": "R$ 98,57",
-    "image": "https://m.media-amazon.com/images/I/61jIBaPEsfL._AC_UL320_.jpg"
-  },
-  {
-    "id": 120,
-    "title": "Computador Mancer Home Office (AMD RYZEN 5 4650G, 16GB DDR4, SSD 240GB, 500W, Stryker)",
-    "price": "R$ 2.464,90",
-    "image": "https://m.media-amazon.com/images/I/61+R9wOF1oL._AC_UL320_.jpg"
-  },
-  {
-    "id": 121,
-    "title": "Computador Completo Intel Core i5 8GB HD 500GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech Slim",
-    "price": "R$ 1.790,00",
-    "image": "https://m.media-amazon.com/images/I/610-0qoIgVL._AC_UL320_.jpg"
-  },
-  {
-    "id": 122,
-    "title": "Computador Intel Core i5 3.2Ghz Com Hdmi 8GB HD 500GB Windows 10 Wifi Desktop Pc",
-    "price": "R$ 1.558,48",
-    "image": "https://m.media-amazon.com/images/I/519CpLs066L._AC_UL320_.jpg"
-  },
-  {
-    "id": 123,
-    "title": "Computador Completo Intel Core i3 8gb SSD 120GB Monitor Hdmi",
-    "price": "R$ 1.800,00",
-    "image": "https://m.media-amazon.com/images/I/615pnis-N5L._AC_UL320_.jpg"
-  },
-  {
-    "id": 124,
-    "title": "COMPUTADOR BUSINESS B300 - I3 4130 3.4GHZ 4GB DDR3 SSD 120GB HDMI/VGA FONTE 200W WINDOWS 10 PRO - SKUL",
-    "price": "R$ 1.227,32",
-    "image": "https://m.media-amazon.com/images/I/71Nt+1nFsdL._AC_UL320_.jpg"
-  },
-  {
-    "id": 125,
-    "title": "Computador Pc Intel Core i5 Com Hdmi Dvd 8GB SSD 120GB Windows 10 Wifi Desktop Cpu",
-    "price": "R$ 1.179,00",
-    "image": "https://m.media-amazon.com/images/I/519CpLs066L._AC_UL320_.jpg"
-  },
-  {
-    "id": 126,
-    "title": "Computador i5, 8gb, SSD 240 com Gabinete RGB",
-    "price": "R$ 1.499,99",
-    "image": "https://m.media-amazon.com/images/I/513on8L38mL._AC_UL320_.jpg"
-  },
-  {
-    "id": 127,
-    "title": "PC GAMER JOGOS CORE I5, 8GB, SSD 240GB, PLACA DE VIDEO 2GB",
-    "price": "R$ 2.627,84",
-    "image": "https://m.media-amazon.com/images/I/41h1kz2Ep3L._AC_UL320_.jpg"
-  },
-  {
-    "id": 128,
-    "title": "Computador Pc Intel Core i7 4GB SSD 128GB Hdmi Teclado e Mouse Cpu Desktop",
-    "price": "R$ 1.450,00",
-    "image": "https://m.media-amazon.com/images/I/51DR+PlgiKL._AC_UL320_.jpg"
-  },
-  {
-    "id": 129,
-    "title": "COMPUTADOR HOME H200 - ATHLON DUAL CORE 200GE 3.2GHZ 4GB DDR4 SSD 120GB HDMI/VGA FONTE 300W - SKUL",
-    "price": "R$ 2.079,70",
-    "image": "https://m.media-amazon.com/images/I/611HGSkjccL._AC_UL320_.jpg"
-  },
-  {
-    "id": 130,
-    "title": "Computador Pc Completo Intel i5 3°Geração 8GB SSD 240GB Wi-fi",
-    "price": "R$ 2.050,00",
-    "image": "https://m.media-amazon.com/images/I/51Dqve9EAnL._AC_UL320_.jpg"
-  },
-  {
-    "id": 131,
-    "title": "Computador Fácil Intel Core I3 DDR3 2.93Ghz 4GB HD 500GB",
-    "price": "R$ 1.141,50",
-    "image": "https://m.media-amazon.com/images/I/414St455HVL._AC_UL320_.jpg"
-  },
-  {
-    "id": 132,
-    "title": "Easypc Computador Completo Intel Core i5 8GB HD 500GB Monitor LED 19.5\" HDMI Go, Preto",
-    "price": "Null",
-    "image": "https://m.media-amazon.com/images/I/81yPNW9YrXS._AC_UL320_.jpg"
-  },
-  {
-    "id": 133,
-    "title": "PC Gamer ITX Arena Setup Powered By Asus, I5 10400F, Asus GTX 1650 4GB, 16GB, SSD 480GB, 3 Anos Garantia",
-    "price": "R$ 4.999,00",
-    "image": "https://m.media-amazon.com/images/I/61-FZjjt7bL._AC_UL320_.jpg"
-  },
-  {
-    "id": 134,
-    "title": "Computador Desktop Business Intel Core i5 3.4Ghz/ 8Gb DDR3/ SSD 480GB",
-    "price": "R$ 2.000,90",
-    "image": "https://m.media-amazon.com/images/I/31Yy3Q9Z9GL._AC_UL320_.jpg"
-  },
-  {
-    "id": 135,
-    "title": "COMPUTADOR CORPORATE I5 4GB 120GB SSD MONITOR 15",
-    "price": "R$ 1.305,47",
-    "image": "https://m.media-amazon.com/images/I/51qYlJ474EL._AC_UL320_.jpg"
-  },
-  {
-    "id": 136,
-    "title": "COMPUTADOR BUSINESS B500 - I5 9400F 2.9GHZ MEM 8GB DDR4 SSD 120GB HD 1TB GT 730 4GB FONTE 500W",
-    "price": "R$ 4.109,74",
-    "image": "https://m.media-amazon.com/images/I/51GxawzPwCL._AC_UL320_.jpg"
-  },
-  {
-    "id": 137,
-    "title": "COMPUTADOR GAMER 5000 - I5-3470 3.2GHZ 3ª GER. MEM. 8GB DDR3 HD 1TB GT 1030 2GB FONTE 500W - SKUL",
-    "price": "R$ 3.639,74",
-    "image": "https://m.media-amazon.com/images/I/61JN3gS9JFL._AC_UL320_.jpg"
-  },
-  {
-    "id": 138,
-    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
-    "price": "R$ 185,82",
-    "image": "https://m.media-amazon.com/images/I/61ygiFTkTwL._AC_UL320_.jpg"
-  },
-  {
-    "id": 139,
-    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
-    "price": "R$ 180,66",
-    "image": "https://m.media-amazon.com/images/I/61cB79ONTYL._AC_UL320_.jpg"
-  },
-  {
-    "id": 140,
-    "title": "Mochila para laptop com alça de liga de negócios, bolsa de nylon para computador com porta de carregamento USB",
-    "price": "R$ 185,82",
-    "image": "https://m.media-amazon.com/images/I/61yXN5CL8rL._AC_UL320_.jpg"
-  },
-  {
-    "id": 141,
-    "title": "usfuzhongfu Monitor de computador, monitor portátil para laptop 11,6\" Full HD IPS Display, monitor de tela de monitor Extender compatível com USB-C monitor de tela de computador para laptop",
-    "price": "R$ 665,00",
-    "image": "https://m.media-amazon.com/images/I/61r-Tb0RvHL._AC_UL320_.jpg"
-  },
-  {
-    "id": 142,
-    "title": "Cpu Computador Pc Intel Core I5 / Ssd 480gb, 8gb Memória Ram OFERTA",
-    "price": "R$ 2.050,00",
-    "image": "https://m.media-amazon.com/images/I/31Dx3qbeXQL._AC_UL320_.jpg"
-  },
-  {
-    "id": 143,
-    "title": "Strong Tech Computador Completo Intel Core i5 8GB HD 1TB Monitor 19\" HDMI Teclado e Mouse, Preto",
-    "price": "R$ 1.850,00",
-    "image": "https://m.media-amazon.com/images/I/71O8fkER6lL._AC_UL320_.jpg"
-  },
-  {
-    "id": 144,
-    "title": "Computador Intel Core i3 8gb Ssd 240GB",
-    "price": "R$ 1.108,33",
-    "image": "https://m.media-amazon.com/images/I/41I4wHvOCYL._AC_UL320_.jpg"
-  },
-  {
-    "id": 145,
-    "title": "Computador desktop, 3 portas USB 3.0 Mini computador 64 GB SSD 4 GB RAM 1920x1080 Ventilador de refrigeração para escritório doméstico para Windows11",
-    "price": "R$ 988,71",
-    "image": "https://m.media-amazon.com/images/I/51VEa2Z6qsL._AC_UL320_.jpg"
-  },
-  {
-    "id": 146,
-    "title": "GOWENIC Mini PC para Windows 10 Home, 8GB LPDDR4 128GB M.2 2242 SSD Mini Computador para Celeron J4125, Ultra HD 4K, 2.4G/5.8G WiFi, BT 4.2, 2 USB3.0, HDMI, USB C, Mini PC Compacto para Jogos (EUA)",
-    "price": "R$ 1.082,37",
-    "image": "https://m.media-amazon.com/images/I/614MiWBZjwL._AC_UL320_.jpg"
-  },
-  {
-    "id": 147,
-    "title": "Computador CPU i5 1ªG, 8GB DDR3, SSD 120GB ~ Promoção",
-    "price": "R$ 1.575,00",
-    "image": "https://m.media-amazon.com/images/I/51agnqVWzYL._AC_UL320_.jpg"
-  },
-  {
-    "id": 148,
-    "title": "Computador CPU i5 3ªG, 8GB DDR3, SSD 120GB ~ Promoção",
-    "price": "R$ 1.725,00",
-    "image": "https://m.media-amazon.com/images/I/41oGvNvLqAL._AC_UL320_.jpg"
-  },
-  {
-    "id": 149,
-    "title": "Computador Desktop Jab Computadores Intel Core I5 2400 3.1 GhZ, Memoria RAM DDR3 de 8GB + SSD 240 Gb + Teclado + Mouse",
-    "price": "R$ 1.549,00",
-    "image": "https://m.media-amazon.com/images/I/51hd5nENanL._AC_UL320_.jpg"
-  },
-  {
-    "id": 150,
-    "title": "Computador CPU i5 2ªG, 4GB DDR3, SSD 480GB ~ Promoção",
-    "price": "R$ 1.785,00",
-    "image": "https://m.media-amazon.com/images/I/51yclN6fOkL._AC_UL320_.jpg"
-  },
-  {
-    "id": 151,
+    "id": 4,
     "title": "Computador Pc Intel Core i5 4GB HD 2TB Hdmi Cpu Desktop",
     "price": "R$ 1.399,67",
     "image": "https://m.media-amazon.com/images/I/61rQVZclvTL._AC_UL320_.jpg"
   },
   {
-    "id": 152,
-    "title": "Beelink Mini PC T4 Pro, Mini computador Celeron N3350 até 2,4 GHz, Mini computador desktop 4 GB DDR + 64 GB, PC pequeno suporta HDMI duplo, 4 USB 3.0, 2.4G + 5.8G WiFi, BT4.0",
-    "price": "R$ 1.199,99",
-    "image": "https://m.media-amazon.com/images/I/61DxiuVKN+L._AC_UL320_.jpg"
+    "id": 5,
+    "title": "Computador Intel Core I5 8gb 240gb Ssd. Total",
+    "price": "R$ 905,00",
+    "image": "https://m.media-amazon.com/images/I/61GiE2virML._AC_UL320_.jpg"
   },
   {
-    "id": 153,
-    "title": "COMPUTADOR GAMER 3000 - I3 10100F 3.6GHZ 10ª GER. MEM. 8GB DDR4 SSD 240GB RX550 4GB FONTE 500W - SKUL",
-    "price": "R$ 3.544,83",
-    "image": "https://m.media-amazon.com/images/I/71oSgI5FSRL._AC_UL320_.jpg"
+    "id": 6,
+    "title": "Computador Completo Intel Core i5 8GB SSD 480GB Windows 10 Monitor 19\" HDMI 3green ElitePC Slim",
+    "price": "R$ 2.073,98",
+    "image": "https://m.media-amazon.com/images/I/61xm1msZ6NL._AC_UL320_.jpg"
   },
   {
-    "id": 154,
-    "title": "COMPUTADOR HOME H200 - PENTIUM DUAL CORE G5400 3.7GHZ MEM 8GB DDR4 SSD 240GB HDMI/VGA FONTE 200W - SKUL",
-    "price": "R$ 2.124,81",
-    "image": "https://m.media-amazon.com/images/I/71ifAbucQtL._AC_UL320_.jpg"
+    "id": 7,
+    "title": "PC HOME OFFICE INTEL CORE i7 3770 - 16GB - SSD 480GB - GABINETE GAMER VX - 500W REAL- WINDOWS 10 ORIGINAL LIDER 4",
+    "price": "R$ 1.634,99",
+    "image": "https://m.media-amazon.com/images/I/51gtFjSX3XL._AC_UL320_.jpg"
   },
   {
-    "id": 155,
-    "title": "COMPUTADOR NITRO INTEL I7 7700 3.6GHZ 7ª GER MEM. 4GB DDR4 HD 1TB DVD-RW HDMI/VGA FONTE 350W LINUX - MVNII7H1101T4G - MOVVA",
-    "price": "R$ 4.895,11",
-    "image": "https://m.media-amazon.com/images/I/51f2SqqoAmL._AC_UL320_.jpg"
+    "id": 8,
+    "title": "Computador Pc Cpu Intel Core i5 Com Hdmi 8GB HD 500GB Windows 10 Wifi Desktop",
+    "price": "R$ 954,00",
+    "image": "https://m.media-amazon.com/images/I/519CpLs066L._AC_UL320_.jpg"
   },
   {
-    "id": 156,
-    "title": "Computador CPU i7, 8GB DDR3, SSD 240GB ~ Promoção ~",
-    "price": "R$ 2.115,00",
+    "id": 9,
+    "title": "Easypc Computador Completo Intel Core i5 8GB SSD 240GB Monitor LED 19.5\" HDMI Go, Preto",
+    "price": "R$ 1.592,78",
+    "image": "https://m.media-amazon.com/images/I/61fPqhbDdDL._AC_UL320_.jpg"
+  },
+  {
+    "id": 10,
+    "title": "PC Gamer Completo AMD 6-Core CPU 3.8Ghz 8GB (Placa de vídeo Radeon R5 2GB) SSD 120GB Kit Gamer Skill Gaming Monitor HDMI LED 19.5\", 40475, Preto, Média",
+    "price": "R$ 2.191,20",
+    "image": "https://m.media-amazon.com/images/I/81datM9VpRS._AC_UL320_.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Computador Completo Intel Core i5 8GB SSD 480GB Windows 10 Monitor 19\" HDMI 3green ElitePC",
+    "price": "R$ 2.399,00",
+    "image": "https://m.media-amazon.com/images/I/811im6l7G7S._AC_UL320_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "PC Intel Core i5 6 Geração, 8GB RAM, SSD 120GB Leve um copo Stanley",
+    "price": "R$ 1.650,00",
+    "image": "https://m.media-amazon.com/images/I/41oLySkeiZL._AC_UL320_.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Pc Cpu Intel Core I5 Quad Core + 8gbram + ssd 240gb",
+    "price": "R$ 1.179,49",
+    "image": "https://m.media-amazon.com/images/I/51eTowUSF+L._AC_UL320_.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Computador Completo Intel Core i5 8GB SSD 240GB Monitor 17\" Hdmi",
+    "price": "R$ 1.585,00",
+    "image": "https://m.media-amazon.com/images/I/71QBwRNlIcL._AC_UL320_.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Computador Completo Intel Core i5 8GB SSD 128GB Monitor 17\" Hdmi",
+    "price": "R$ 1.548,00",
+    "image": "https://m.media-amazon.com/images/I/71jBu0BcR4L._AC_UL320_.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Computador Completo Intel Core i5 8gb SSD 120GB Monitor Hdmi",
+    "price": "R$ 1.579,00",
+    "image": "https://m.media-amazon.com/images/I/41kaCtuXnwL._AC_UL320_.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Computador Intel Core i5 16GB SSD 240GB EasyPC Go",
+    "price": "R$ 1.120,00",
+    "image": "https://m.media-amazon.com/images/I/71fMER1GMvS._AC_UL320_.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Computador Pc Cpu Intel Core i5 Com Hdmi 8GB HD 500GB Windows 10 Wifi Desktop",
+    "price": "R$ 935,00",
+    "image": "https://m.media-amazon.com/images/I/519CpLs066L._AC_UL320_.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Computador Completo Intel Core i5 8gb SSD 240GB Monitor Hdmi",
+    "price": "R$ 1.643,57",
+    "image": "https://m.media-amazon.com/images/I/614sG5PFF6L._AC_UL320_.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Pc Gamer Intel Core i7 3770-3.90 GHz,16GB RAM, Placa de vídeo 2GB, SSD 512GB, Fonte 500w, Gabinete GAMER",
+    "price": "R$ 1.909,00",
+    "image": "https://m.media-amazon.com/images/I/51zQsIiFcRL._AC_UL320_.jpg"
+  },
+  {
+    "id": 21,
+    "title": "ELDINGU SSD 1TB Interno Disco Sólido SATA III 6GB/S 2,5” Com SATA Cabo 3D NAND Chip Até 520 Mb/s Para Atualizar Computadores Laptop e Desktop (Preto 1tb)",
+    "price": "R$ 419,99",
+    "image": "https://m.media-amazon.com/images/I/615i1n7ecsL._AC_UL320_.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Webcam Full HD Logitech C922 Pro Stream com Microfone para Gravações em Video 1080p e Tripé Incluso, Compatível com Logitech Capture",
+    "price": "R$ 453,06",
+    "image": "https://m.media-amazon.com/images/I/61gpJAcAQIL._AC_UL320_.jpg"
+  },
+  {
+    "id": 23,
+    "title": "GHY Protetor de Tela Azul de 23,6 23,8 24 Polegadas (diagonal) para Proporção 16:9 Computador, Filtros de Tela de Computador para Tensão Ocular, Miopia, Proteção UV, Antiarranhões para Tela de Monitor de Computador",
+    "price": "R$ 400,00",
+    "image": "https://m.media-amazon.com/images/I/81DiOBSesyL._AC_UL320_.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Protetor de Tela Luz Azul para Computador Monitor 20 Polegadas (DIAGONAL) com 90% Anti Luz azul, Proteção UV 99% para Reduzir A Tensão Ocular e Míope. Protetor de Tela Computador de (W 18 1/16 x H 10 5/8)",
+    "price": "R$ 350,00",
+    "image": "https://m.media-amazon.com/images/I/91a3ILiaeWL._AC_UL320_.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Computador Intel Core i5 Com Hdmi 8GB HD 1TB Windows 10 Desktop",
+    "price": "R$ 999,00",
+    "image": "https://m.media-amazon.com/images/I/61W+o62-SyL._AC_UL320_.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Computador Completo Core i5 8GB SSD 256GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
+    "price": "R$ 1.548,00",
+    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Computador Completo Intel Core i5 8GB SSD 512GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.899,00",
+    "image": "https://m.media-amazon.com/images/I/716F6614nqL._AC_UL320_.jpg"
+  },
+  {
+    "id": 28,
+    "title": "PC Intel Core i5, 8GB RAM DDR3, HD SSD 240GB",
+    "price": "R$ 902,00",
+    "image": "https://m.media-amazon.com/images/I/41IEMsyGFiL._AC_UL320_.jpg"
+  },
+  {
+    "id": 29,
+    "title": "All in One LG 22V280-L.BY31P1 - Intel Quad Core, 4GB, 500GB, 21,5” Full HD, Windows 10",
+    "price": "R$ 2.199,00",
+    "image": "https://m.media-amazon.com/images/I/31E3nirrmeL._AC_UL320_.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Pc Cpu Intel Core I5 3º3470 3,2ghz+8gbram+ssd 240gb Promoção",
+    "price": "R$ 905,00",
+    "image": "https://m.media-amazon.com/images/I/41vwcRH2haL._AC_UL320_.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Computador Desktop Business Intel Core i3 3.0Ghz / 4Gb DDR3 / HD 500GB / Monitor LED 19 Kit - Flex Computer",
+    "price": "R$ 1.359,00",
+    "image": "https://m.media-amazon.com/images/I/61huNT3KZ2L._AC_UL320_.jpg"
+  },
+  {
+    "id": 32,
+    "title": "PC Gamer Mancer (AMD Ryzen 7 5700G, 16GB DDR4, SSD 240GB, HD 1TB, 500W)",
+    "price": "R$ 4.055,90",
+    "image": "https://m.media-amazon.com/images/I/61u9iBBGsbL._AC_UL320_.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Computador Completo Core i5 4GB SSD 128GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
+    "price": "R$ 1.450,00",
+    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 34,
+    "title": "PC Intel Core i7 até 3,80 GHz, 8GB RAM DDR3, HD 500GB + SSD 120GB Melhor Preço!!",
+    "price": "R$ 1.250,00",
+    "image": "https://m.media-amazon.com/images/I/61E7vT0W88L._AC_UL320_.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Cpu Computador Pc Intel Core I5 4ª Geração/Ssd 240gb, 8gb Memória Ram - PROMOÇÃO!",
+    "price": "R$ 1.099,00",
+    "image": "https://m.media-amazon.com/images/I/31KwKwu-7XL._AC_UL320_.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Cpu Intel Core I7 3770 1600 Mhz + 16gb + Ssd240gb",
+    "price": "R$ 1.225,00",
+    "image": "https://m.media-amazon.com/images/I/41IEMsyGFiL._AC_UL320_.jpg"
+  },
+  {
+    "id": 37,
+    "title": "PC Gamer OnGaming® Ryzen 5 5600G, Radeon™ Graphics Vega 7, 16GB Ram, SSD 240GB, Gabinete RGB",
+    "price": "R$ 3.134,00",
+    "image": "https://m.media-amazon.com/images/I/61rPwqa-osL._AC_UL320_.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Strong Tech Computador Completo Intel Core i5 8GB SSD 240GB Monitor 19\" HDMI Teclado e Mouse, Preto",
+    "price": "R$ 1.640,00",
+    "image": "https://m.media-amazon.com/images/I/71zK62UPYEL._AC_UL320_.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Computador Completo Intel Core i5 8GB SSD 240GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.660,20",
+    "image": "https://m.media-amazon.com/images/I/71yNlWZnwAL._AC_UL320_.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Strong Tech Computador Completo Intel Core i5 8GB SSD 120GB Monitor 19\" HDMI Teclado e Mouse, Preto",
+    "price": "R$ 1.550,00",
+    "image": "https://m.media-amazon.com/images/I/71gVquYXakL._AC_UL320_.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Computador Completo Intel Core i5 8GB HD 1TB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.830,00",
+    "image": "https://m.media-amazon.com/images/I/71g9bW04IAL._AC_UL320_.jpg"
+  },
+  {
+    "id": 42,
+    "title": "PC Gamer Arena Powered By Asus, Ryzen 5 5600G, Radeon™ Graphics Vega 7, 16GB Ram, SSD 240GB, Gabinete RGB",
+    "price": "R$ 3.199,00",
+    "image": "https://m.media-amazon.com/images/I/51QRmwAg1AL._AC_UL320_.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Skill Gaming PC Gamer AMD 6-Core CPU 3.8Ghz 8GB (Placa de vídeo Radeon R5 2GB) SSD 120GB Casual, Preto, Média, 40453",
+    "price": "R$ 1.619,19",
+    "image": "https://m.media-amazon.com/images/I/51juJ9+3zwL._AC_UL320_.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Computador Completo Intel Core i5 8GB SSD 480GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech Slim",
+    "price": "R$ 2.100,00",
+    "image": "https://m.media-amazon.com/images/I/61Cs7P50TbL._AC_UL320_.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Computador CPU i7, 16GB DDR3, SSD 480GB ~ Promoção ~",
+    "price": "R$ 1.685,29",
+    "image": "https://m.media-amazon.com/images/I/51vWr2rn8fL._AC_UL320_.jpg"
+  },
+  {
+    "id": 46,
+    "title": "PC Gamer AMD Ryzen 5 2400G, 16 GB de RAM DDR4, SSD 512 GB, Gráficos Radeon RX Vega 11, Gabinete GAMER com LED",
+    "price": "R$ 3.380,00",
+    "image": "https://m.media-amazon.com/images/I/511-wWD4c8L._AC_UL320_.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Computador Completo Intel Core i5 8GB HD 500GB Monitor 17\" Hdmi",
+    "price": "R$ 1.550,00",
+    "image": "https://m.media-amazon.com/images/I/71xJYH86kJL._AC_UL320_.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Computador Mancer Home Office (AMD RYZEN 5 4650G, 8GB DDR4, SSD 240GB, 200W, Combat)",
+    "price": "R$ 2.078,90",
+    "image": "https://m.media-amazon.com/images/I/51pdQ6toPbL._AC_UL320_.jpg"
+  },
+  {
+    "id": 49,
+    "title": "Computador Completo Intel Core i5 8GB SSD 120GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.599,50",
+    "image": "https://m.media-amazon.com/images/I/71+EoATWJfL._AC_UL320_.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Computador Completo Home and Business Intel Core i3 RAM 4GB HD 500GB Monitor 19.5\" LED Quantum, PRETO, Média, 37817",
+    "price": "R$ 1.390,40",
+    "image": "https://m.media-amazon.com/images/I/61J-0L3GhCL._AC_UL320_.jpg"
+  },
+  {
+    "id": 51,
+    "title": "COMPUTADOR BUSINESS B300 - CORE I3 3220 3.3GHZ MEM 4GB DDR3 SEM HD/SSD HDMI/VGA FONTE 200W - SKUL",
+    "price": "R$ 1.485,37",
+    "image": "https://m.media-amazon.com/images/I/71slGzoMT9L._AC_UL320_.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Computador Completo Core i5 4GB SSD 256GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
+    "price": "R$ 1.499,00",
+    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Computador Completo Intel Core i3 8GB SSD 240GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.574,00",
+    "image": "https://m.media-amazon.com/images/I/71GLsWtj8YL._AC_UL320_.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Computador Completo Pc Cpu Monitor 19\" Intel Core i3 Turbo 4GB SSD 120GB Hdmi Teclado e Mouse Desktop",
+    "price": "R$ 1.449,00",
+    "image": "https://m.media-amazon.com/images/I/71bKD6erIeL._AC_UL320_.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Computador CorPC Intel Core i3 4GB DDR3, HD 500GB e Monitor LED 19.5, PRETO, Média, 6584",
+    "price": "R$ 1.319,11",
+    "image": "https://m.media-amazon.com/images/I/518nL4oxwAL._AC_UL320_.jpg"
+  },
+  {
+    "id": 56,
+    "title": "Strong Tech Computador Completo Intel Core i5 8GB HD 500GB Monitor 17\" HDMI Teclado e Mouse, Preto",
+    "price": "R$ 1.535,00",
+    "image": "https://m.media-amazon.com/images/I/71PHa93J0UL._AC_UL320_.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Almofada de resfriamento de laptop AICHESON com luzes RGB para notebooks de computador de 14 a 17,3 polegadas, painel de metal, 3 ventoinhas de resfriamento",
+    "price": "R$ 445,00",
+    "image": "https://m.media-amazon.com/images/I/71fF4LLciQL._AC_UL320_.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Rato para jogos PHNIXGAM Cat Paw RGB, Ratos de computador ópticos silenciosos USB com 6 DPI ajustáveis até 7200, iluminação RGB, 6 botões programáveis para Windows/Vista/Linux (Branco)",
+    "price": "R$ 108,00",
+    "image": "https://m.media-amazon.com/images/I/51AQnywXLoL._AC_UL320_.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Computador Pc Intel Core i7 4GB SSD 256GB Hdmi Cpu Desktop",
+    "price": "R$ 1.550,00",
+    "image": "https://m.media-amazon.com/images/I/617yf2IMfTL._AC_UL320_.jpg"
+  },
+  {
+    "id": 60,
+    "title": "Computador Pc Intel Core i5 4GB SSD 240GB Hdmi Cpu Desktop",
+    "price": "R$ 1.109,00",
+    "image": "https://m.media-amazon.com/images/I/61k2KI7cBnL._AC_UL320_.jpg"
+  },
+  {
+    "id": 61,
+    "title": "GHY Protetor de Tela Azul 27 Polegadas (diagonal) para Proporção 16:9 Computador, Filtros de Tela de Computador para Tensão Ocular, Miopia, Proteção UV, Antiarranhões para Tela de Monitor de Computador",
+    "price": "R$ 600,00",
+    "image": "https://m.media-amazon.com/images/I/81DiOBSesyL._AC_UL320_.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Computador Completo Core i5 8GB SSD 128GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
+    "price": "R$ 1.496,00",
+    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Computador Pc Intel Core i3 4GB SSD 120GB Hdmi Cpu Desktop",
+    "price": "R$ 899,00",
+    "image": "https://m.media-amazon.com/images/I/61fvwK6UbDL._AC_UL320_.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Caixa de Som Mini Stage Solo Bluetooth 5.3 Speaker com Som Estéreo e HiFi, 3 Modos de Luz RGB e Conexões, Alimentado por USB Plug & Play para Computador, Desktop, Laptop, Projector, PS4, PS5 Portáteis",
+    "price": "R$ 279,00",
+    "image": "https://m.media-amazon.com/images/I/71Eh2UZRV-L._AC_UL320_.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Computador Completo Core i5 8GB SSD 128GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
+    "price": "R$ 1.496,00",
+    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 66,
+    "title": "PC Gamer ITX Arena, Core i5 10400F, NVidia GeForce RTX 3050 8GB, Ram 16GB, SSD 240GB, Gabinete Gamer",
+    "price": "R$ 5.199,00",
+    "image": "https://m.media-amazon.com/images/I/616OaG9Fh6L._AC_UL320_.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Computador Completo Core i5 8GB SSD 256GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
+    "price": "R$ 1.548,00",
+    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 68,
+    "title": "GHY Protetor de Tela Azul de 19 Polegadas (diagonal) para Proporção 5:4 Computador, Filtros de Tela de Computador para Tensão Ocular, Miopia, Proteção UV, Antiarranhões para Tela de Monitor de Computador",
+    "price": "R$ 290,00",
+    "image": "https://m.media-amazon.com/images/I/81DiOBSesyL._AC_UL320_.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Microfone USB PC, condensador de gravação de computador cardioide com botão mudo e indicador LED para laptop, Mac, PS4 - gravação de voz, podcasts, Skype, YouTube, jogos, streaming (JV603-preto)",
+    "price": "R$ 89,00",
+    "image": "https://m.media-amazon.com/images/I/51JhNPy7iKL._AC_UL320_.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Computador Completo Intel Core i5 8gb SSD 240GB Monitor Hdmi",
+    "price": "R$ 1.643,57",
+    "image": "https://m.media-amazon.com/images/I/614sG5PFF6L._AC_UL320_.jpg"
+  },
+  {
+    "id": 71,
+    "title": "PAC-MAN e as Aventuras Fantasmagóricas",
+    "price": "Null",
+    "image": "https://m.media-amazon.com/images/I/71yq+ZZVGPL._AC_UL320_.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Computador Completo Intel Core i5 4GB HD 1TB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.799,00",
+    "image": "https://m.media-amazon.com/images/I/71Vhw30WWtL._AC_UL320_.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Computador E3 Nano Intel Dual Core J1800, 4GB, SSD 120GB, 46NEMPC0B8NF - Elgin",
+    "price": "R$ 1.159,00",
+    "image": "https://m.media-amazon.com/images/I/514SP0z48sL._AC_UL320_.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Computador Completo Intel Core i5 4GB HD 500GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.579,00",
+    "image": "https://m.media-amazon.com/images/I/71cY0AZRsTL._AC_UL320_.jpg"
+  },
+  {
+    "id": 75,
+    "title": "PC Gamer NAVE Urano AA01, AMD RYZEN 5 3600, 8GB, Radeon RX 570, SSD 256GB, LINUX, PRETO, MEDIO",
+    "price": "R$ 6.276,23",
+    "image": "https://m.media-amazon.com/images/I/51-sSKgENqL._AC_UL320_.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Computador Completo Intel Core i5 8GB SSD 240GB Monitor 19\" Webcam Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.620,00",
+    "image": "https://m.media-amazon.com/images/I/71igKIrj-uL._AC_UL320_.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Computador Completo Intel Core i3 6GB SSD 120GB Monitor Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.460,00",
+    "image": "https://m.media-amazon.com/images/I/71vcXU8IThL._AC_UL320_.jpg"
+  },
+  {
+    "id": 78,
+    "title": "COMPUTADOR CORE I7, 8GB, SSD 480GB, GABINETE ATX, FONTE ATX, HERTZ INFORMATICA",
+    "price": "R$ 1.549,00",
+    "image": "https://m.media-amazon.com/images/I/41-c3JqqJrL._AC_UL320_.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Computador Completo Core i5 4° Geração 8gb Hd 500gb + Monitor 18.5 + Wi-fi",
+    "price": "R$ 2.699,00",
+    "image": "https://m.media-amazon.com/images/I/51qAaRMeHDL._AC_UL320_.jpg"
+  },
+  {
+    "id": 80,
+    "title": "COMPUTADOR BUSINESS B700 - I7 8700 3.2GHZ 8GB DDR4 SSD 240GB HDMI/VGA FONTE 500W - SKUL",
+    "price": "R$ 5.611,45",
+    "image": "https://m.media-amazon.com/images/I/61d-BJymhJL._AC_UL320_.jpg"
+  },
+  {
+    "id": 81,
+    "title": "Computador Completo Intel Core i3 6GB HD 500GB Monitor Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.460,00",
+    "image": "https://m.media-amazon.com/images/I/71iNxfZmWqL._AC_UL320_.jpg"
+  },
+  {
+    "id": 82,
+    "title": "Computador Completo Com Webcam Intel Core I3 8gb Hd 500Gb",
+    "price": "R$ 1.298,00",
+    "image": "https://m.media-amazon.com/images/I/41DezNsM7AL._AC_UL320_.jpg"
+  },
+  {
+    "id": 83,
+    "title": "COMPUTADOR GAMER 7000 - I7 9700F 3.0GHZ 9ª GER. MEM. 16GB DDR4 (2X 8GB) SSD 240GB HD 1TB GTX 1050TI 4GB FONTE 600W - SKUL",
+    "price": "R$ 7.343,91",
+    "image": "https://m.media-amazon.com/images/I/61agroAXB5L._AC_UL320_.jpg"
+  },
+  {
+    "id": 84,
+    "title": "Pc Computador Cpu Core I5 3470 500gb + 16gb Memória Ram",
+    "price": "R$ 1.519,00",
+    "image": "https://m.media-amazon.com/images/I/21wT2ffiPGS._AC_UL320_.jpg"
+  },
+  {
+    "id": 85,
+    "title": "Computador Pc Completo Intel i3 4°Geração 8gb SSD 240gb Wi-fi",
+    "price": "R$ 2.899,00",
+    "image": "https://m.media-amazon.com/images/I/510GlJ+o5IL._AC_UL320_.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Pc Computador CPU MINI Dual Core / 4GB Ram/SSD 120GB - LIQUIDAÇÃO",
+    "price": "Null",
+    "image": "https://m.media-amazon.com/images/I/41QR44s0sXL._AC_UL320_.jpg"
+  },
+  {
+    "id": 87,
+    "title": "Computador Cpu Intel Core 2 Duo 8gb SSD 120gb Teclado Mouse",
+    "price": "R$ 1.626,19",
+    "image": "https://m.media-amazon.com/images/I/41jtuA0KYfL._AC_UL320_.jpg"
+  },
+  {
+    "id": 88,
+    "title": "Suporte de laptop para mesa, suporte de laptop ergonômico portátil ajustável de alumínio, suporte de computador dobrável 6 ângulos, almofada de resfriamento de laptop compatível com macbook, ipad, 9 \"-17\" riser de laptop e tablets (prata)",
+    "price": "R$ 115,99",
+    "image": "https://m.media-amazon.com/images/I/71q9ftvyoBL._AC_UL320_.jpg"
+  },
+  {
+    "id": 89,
+    "title": "KABEWUS Suporte para laptop para mesa suporte estável para suporte ergonômico alumínio para 12-17 polegadas resfriamento computador para Mac MacBook Pro Air, HP, Dell, mais PC Notebook (prata claro)",
+    "price": "R$ 141,00",
+    "image": "https://m.media-amazon.com/images/I/61iqcAJbR1L._AC_UL320_.jpg"
+  },
+  {
+    "id": 90,
+    "title": "Bolsa Grande de 15,6 Polegadas para Computador Bolsa para Professores para Viagens, Trabalho, Negócios, Escritório",
+    "price": "R$ 242,89",
+    "image": "https://m.media-amazon.com/images/I/616W4Gx1OhL._AC_UL320_.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Easypc Computador Desktop SSD Series Intel Core i3 4GB 120GB SSD HDMI FULL HD",
+    "price": "R$ 950,00",
+    "image": "https://m.media-amazon.com/images/I/41CT4ejSNSL._AC_UL320_.jpg"
+  },
+  {
+    "id": 92,
+    "title": "COMPUTADOR BUSINESS B300 - I3 4130 3.4GHZ 4GB DDR3 SSD 120GB HDMI/VGA FONTE 200W WINDOWS 10 HOME - SKUL",
+    "price": "R$ 2.038,69",
+    "image": "https://m.media-amazon.com/images/I/710SH50QldL._AC_UL320_.jpg"
+  },
+  {
+    "id": 93,
+    "title": "Computador Completo Intel Core i5 4GB SSD 240GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.597,00",
+    "image": "https://m.media-amazon.com/images/I/71-PiUxZ5TL._AC_UL320_.jpg"
+  },
+  {
+    "id": 94,
+    "title": "Easypc Computador Standard Intel Core i3 4GB DDR3 HD 500GB HDMI FullHD audio 5.1 Monitor LED 19.5, Preto",
+    "price": "R$ 1.257,52",
+    "image": "https://m.media-amazon.com/images/I/61mcd6PyYIL._AC_UL320_.jpg"
+  },
+  {
+    "id": 95,
+    "title": "Pc Cpu Intel Core I5 3º3470 3,2ghz+16gbram+ssd 240gb Promoção",
+    "price": "R$ 1.360,00",
+    "image": "https://m.media-amazon.com/images/I/61j9KYb75wL._AC_UL320_.jpg"
+  },
+  {
+    "id": 96,
+    "title": "Computador Completo Intel Core i3 8gb SSD 240GB Monitor Hdmi",
+    "price": "R$ 1.789,00",
+    "image": "https://m.media-amazon.com/images/I/41DTZGxd+HL._AC_UL320_.jpg"
+  },
+  {
+    "id": 97,
+    "title": "Computador Completo Intel Core i5 4GB SSD 512GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.799,00",
+    "image": "https://m.media-amazon.com/images/I/71TGj-WLZdL._AC_UL320_.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Computador Desktop Jab Computadores Intel Core I3 2100 3.1 GhZ, Memoria RAM DDR3 de 4GB + SSD 120 Gb + Teclado + Mouse",
+    "price": "R$ 899,00",
+    "image": "https://m.media-amazon.com/images/I/51lCUJhi6cL._AC_UL320_.jpg"
+  },
+  {
+    "id": 99,
+    "title": "COMPUTADOR BUSINESS B300 - I3-4130 3.4GHZ 4GB DDR3 SEM HD HDMI/VGA FONTE 200W - B41304 - SKUL",
+    "price": "R$ 1.642,33",
+    "image": "https://m.media-amazon.com/images/I/71slGzoMT9L._AC_UL320_.jpg"
+  },
+  {
+    "id": 100,
+    "title": "Computador Cpu Barato Celeron Dual Core 8gb Ram Ssd 120gb - LIQUIDAÇÃO",
+    "price": "R$ 1.015,00",
+    "image": "https://m.media-amazon.com/images/I/41oGvNvLqAL._AC_UL320_.jpg"
+  },
+  {
+    "id": 101,
+    "title": "PC Completo Intel Core i3, 4GB RAM DDR3, HD SSD 120GB, Monitor 18,5\", Adaptador Wi-Fi, Teclado e Mouse",
+    "price": "R$ 2.525,00",
+    "image": "https://m.media-amazon.com/images/I/61GyWTCkfIL._AC_UL320_.jpg"
+  },
+  {
+    "id": 102,
+    "title": "COMPUTADOR BUSINESS B100 - CELERON DUAL CORE J1800 2.41GHZ 4GB DDR3 SODIMM HD 500GB 2 SERIAL 1 PARALELA FONTE 200W - SKUL",
+    "price": "R$ 1.225,56",
+    "image": "https://m.media-amazon.com/images/I/71slGzoMT9L._AC_UL320_.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Computador Completo Intel Core i3 4GB SSD 120GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech",
+    "price": "R$ 1.450,00",
+    "image": "https://m.media-amazon.com/images/I/71bKD6erIeL._AC_UL320_.jpg"
+  },
+  {
+    "id": 104,
+    "title": "COMPUTADOR BUSINESS B100 - CELERON DUAL CORE J1800 2.41GHZ 4GB DDR3 SODIMM SSD 120GB 2 SERIAL 1 PARALELA FONTE 200W",
+    "price": "R$ 969,68",
+    "image": "https://m.media-amazon.com/images/I/71slGzoMT9L._AC_UL320_.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Kit Mouse e Teclado, Maxprint, Acessórios para Computador",
+    "price": "R$ 169,90",
+    "image": "https://m.media-amazon.com/images/I/51571-IASsL._AC_UL320_.jpg"
+  },
+  {
+    "id": 106,
+    "title": "COMPUTADOR BUSINESS B300 - I3 4130 3.4GHZ 4GB DDR3 SSD 120GB HDMI/VGA FONTE 200W WINDOWS 10 PRO - SKUL",
+    "price": "R$ 1.227,32",
+    "image": "https://m.media-amazon.com/images/I/71Nt+1nFsdL._AC_UL320_.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Computador Pc Intel Core i5 4GB SSD 120GB Hdmi Cpu Desktop",
+    "price": "R$ 1.070,00",
+    "image": "https://m.media-amazon.com/images/I/61+6oqyuT0L._AC_UL320_.jpg"
+  },
+  {
+    "id": 108,
+    "title": "Computador Pc Completo Intel Core i3 8GB HD 500GB Wi-fi",
+    "price": "R$ 2.500,00",
+    "image": "https://m.media-amazon.com/images/I/51vnJvGTOVL._AC_UL320_.jpg"
+  },
+  {
+    "id": 109,
+    "title": "Computador Pc Intel Core i5 8GB HD 500GB Hdmi Cpu Desktop",
+    "price": "R$ 1.150,00",
+    "image": "https://m.media-amazon.com/images/I/61MKgmYeaaL._AC_UL320_.jpg"
+  },
+  {
+    "id": 110,
+    "title": "COMPUTADOR BUSINESS B500 - I5 3470 3.2GHZ 8GB DDR3 SSD 240GB HDMI/VGA GRAVADOR DE DVD FONTE 300W WINDOWS 10 HOME -SKUL",
+    "price": "R$ 1.997,10",
+    "image": "https://m.media-amazon.com/images/I/61VMW6e1BmL._AC_UL320_.jpg"
+  },
+  {
+    "id": 111,
+    "title": "Cpu Computador Pc Intel Core I5 / Ssd 240gb, 8gb Memória Ram OFERTA",
+    "price": "R$ 1.025,00",
+    "image": "https://m.media-amazon.com/images/I/61fczmFZuBL._AC_UL320_.jpg"
+  },
+  {
+    "id": 112,
+    "title": "Computador Pc Intel Core i5 4GB SSD 240GB Hdmi Cpu Desktop",
+    "price": "R$ 1.109,00",
+    "image": "https://m.media-amazon.com/images/I/61k2KI7cBnL._AC_UL320_.jpg"
+  },
+  {
+    "id": 113,
+    "title": "GAB ATX Cyclon PRO G BK V2, Aerocool, Acessórios para Computador",
+    "price": "R$ 546,55",
+    "image": "https://m.media-amazon.com/images/I/61GmPDOUZUL._AC_UL320_.jpg"
+  },
+  {
+    "id": 114,
+    "title": "Computador Desktop Goldentec Intel® Core™ i3, 4GB, SSD 120GB, Windows 10 Home SL",
+    "price": "R$ 921,71",
+    "image": "https://m.media-amazon.com/images/I/71UR8saWmPL._AC_UL320_.jpg"
+  },
+  {
+    "id": 115,
+    "title": "Pc Desktop Prime Intel Core i5, 8GB RAM, SSD 480GB, GT 710 2GB-",
+    "price": "R$ 2.520,00",
+    "image": "https://m.media-amazon.com/images/I/41ijOBG24zS._AC_UL320_.jpg"
+  },
+  {
+    "id": 116,
+    "title": "Computador CPU i5 7ªG, 8GB DDR4, SSD 120GB - Promoção e Brinde!",
+    "price": "R$ 2.225,00",
     "image": "https://m.media-amazon.com/images/I/513I3br3ZVL._AC_UL320_.jpg"
   },
   {
+    "id": 117,
+    "title": "Pc Computador CPU MINI Dual Core / 8GB Ram/SSD 240GB - LIQUIDAÇÃO",
+    "price": "Null",
+    "image": "https://m.media-amazon.com/images/I/41QR44s0sXL._AC_UL320_.jpg"
+  },
+  {
+    "id": 118,
+    "title": "COMPUTADOR BUSINESS B500 - I5 4570 3.2GHZ 8GB DDR3 SSD 240GB HDMI/VGA FONTE 300W - SKUL",
+    "price": "R$ 2.135,84",
+    "image": "https://m.media-amazon.com/images/I/611HGSkjccL._AC_UL320_.jpg"
+  },
+  {
+    "id": 119,
+    "title": "Mini PC para Intel 9th, 12GB 256GB, GX01 i9 9880h GTX1650 Mini Computador Desktop, Dual DDR4 4G GPU Placa gráfica discreta Mini PC para jogos com luz para Win10,11, para Linux(#1)",
+    "price": "R$ 4.547,65",
+    "image": "https://m.media-amazon.com/images/I/71BtkcKMrrL._AC_UL320_.jpg"
+  },
+  {
+    "id": 120,
+    "title": "Computador Completo Intel Core i3 8gb SSD 120GB Monitor Hdmi",
+    "price": "R$ 1.800,00",
+    "image": "https://m.media-amazon.com/images/I/615pnis-N5L._AC_UL320_.jpg"
+  },
+  {
+    "id": 121,
+    "title": "Computador PC CPU Desktop Intel Core i5 8GB SSD 240GB CorPC Fast, Preto, Média, 27227",
+    "price": "R$ 1.133,00",
+    "image": "https://m.media-amazon.com/images/I/51PcZiOHGAL._AC_UL320_.jpg"
+  },
+  {
+    "id": 122,
+    "title": "COMPUTADOR INTEL CORE I3 2100 3.1 GhZ, PLACA MAE H61, MEMORIA RAM 4 GB + SSD 120 GB + LINUX + WIFI + MOUSE + TECLADO",
+    "price": "R$ 1.249,00",
+    "image": "https://m.media-amazon.com/images/I/51lCUJhi6cL._AC_UL320_.jpg"
+  },
+  {
+    "id": 123,
+    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 185,82",
+    "image": "https://m.media-amazon.com/images/I/61ygiFTkTwL._AC_UL320_.jpg"
+  },
+  {
+    "id": 124,
+    "title": "Mochila para laptop com alça de liga de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 185,82",
+    "image": "https://m.media-amazon.com/images/I/61A+REYRxHL._AC_UL320_.jpg"
+  },
+  {
+    "id": 125,
+    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 180,66",
+    "image": "https://m.media-amazon.com/images/I/61Kxik2jpVL._AC_UL320_.jpg"
+  },
+  {
+    "id": 126,
+    "title": "Mochila leve para laptop, mochila de negócios, bolsa de nylon para computador e escola universitária, mochila com porta de carregamento USB",
+    "price": "R$ 134,18",
+    "image": "https://m.media-amazon.com/images/I/61EWMzWeb0L._AC_UL320_.jpg"
+  },
+  {
+    "id": 127,
+    "title": "Computador Completo Core i5 4GB SSD 256GB Pc Intel Monitor Teclado e Mouse Cpu Desktop Strong Tech",
+    "price": "R$ 1.499,00",
+    "image": "https://m.media-amazon.com/images/I/61QkUW+g7xL._AC_UL320_.jpg"
+  },
+  {
+    "id": 128,
+    "title": "Microfone USB para computador com botão mudo, condensador plug & play, desktop, PC, laptop, Mac, microfone PS4 - design de pescoço de ganso 360 - gravação, ditado, YouTube, jogos, streaming (omnidirecional-JV601PRO)",
+    "price": "R$ 99,00",
+    "image": "https://m.media-amazon.com/images/I/51jfHPfGsmL._AC_UL320_.jpg"
+  },
+  {
+    "id": 129,
+    "title": "Mochila para laptop com alça de liga de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 185,82",
+    "image": "https://m.media-amazon.com/images/I/61yXN5CL8rL._AC_UL320_.jpg"
+  },
+  {
+    "id": 130,
+    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 180,66",
+    "image": "https://m.media-amazon.com/images/I/61c4CULjHML._AC_UL320_.jpg"
+  },
+  {
+    "id": 131,
+    "title": "Computador PC CPU Desktop Intel Core i5 8GB SSD 240GB CorPC Fast, Preto, Média, 27227",
+    "price": "R$ 1.133,00",
+    "image": "https://m.media-amazon.com/images/I/51PcZiOHGAL._AC_UL320_.jpg"
+  },
+  {
+    "id": 132,
+    "title": "COMPUTADOR INTEL CORE I3 2100 3.1 GhZ, PLACA MAE H61, MEMORIA RAM 4 GB + SSD 120 GB + LINUX + WIFI + MOUSE + TECLADO",
+    "price": "R$ 1.249,00",
+    "image": "https://m.media-amazon.com/images/I/51lCUJhi6cL._AC_UL320_.jpg"
+  },
+  {
+    "id": 133,
+    "title": "Unidade flash, stick de memória portátil portátil em formato de coração retro para computador, carro, alto-falante BT, TV(#8)",
+    "price": "R$ 98,57",
+    "image": "https://m.media-amazon.com/images/I/61jIBaPEsfL._AC_UL320_.jpg"
+  },
+  {
+    "id": 134,
+    "title": "COMPUTADOR GAMER 1000 - ATHLON 3000G 3.5GHZ MEM. 8GB DDR4 SSD 240GB RX 550 4GB FONTE 500W - SKUL",
+    "price": "R$ 3.712,42",
+    "image": "https://m.media-amazon.com/images/I/6139pRaplzL._AC_UL320_.jpg"
+  },
+  {
+    "id": 135,
+    "title": "Computador Mancer Home Office (AMD RYZEN 5 4650G, 16GB DDR4, SSD 240GB, 500W, Stryker)",
+    "price": "R$ 2.464,90",
+    "image": "https://m.media-amazon.com/images/I/61+R9wOF1oL._AC_UL320_.jpg"
+  },
+  {
+    "id": 136,
+    "title": "Computador Completo Intel Core i5 8GB HD 500GB Monitor 19\" Hdmi Teclado e Mouse Strong Tech Slim",
+    "price": "R$ 1.790,00",
+    "image": "https://m.media-amazon.com/images/I/610-0qoIgVL._AC_UL320_.jpg"
+  },
+  {
+    "id": 137,
+    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 180,66",
+    "image": "https://m.media-amazon.com/images/I/619HDyiJBsL._AC_UL320_.jpg"
+  },
+  {
+    "id": 138,
+    "title": "Mochila para laptop com alça de liga de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 185,82",
+    "image": "https://m.media-amazon.com/images/I/61ol3klpRHL._AC_UL320_.jpg"
+  },
+  {
+    "id": 139,
+    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 185,82",
+    "image": "https://m.media-amazon.com/images/I/6156Xb0H30L._AC_UL320_.jpg"
+  },
+  {
+    "id": 140,
+    "title": "Computador i3, 8gb e SSD 120gb",
+    "price": "R$ 1.149,99",
+    "image": "https://m.media-amazon.com/images/I/51PvtyHmmfL._AC_UL320_.jpg"
+  },
+  {
+    "id": 141,
+    "title": "Easypc Computador Completo Intel Core i5 8GB HD 500GB Monitor LED 19.5\" HDMI Go, Preto",
+    "price": "Null",
+    "image": "https://m.media-amazon.com/images/I/81yPNW9YrXS._AC_UL320_.jpg"
+  },
+  {
+    "id": 142,
+    "title": "Strong Tech Computador Completo Intel Core i5 8GB SSD 240GB Monitor 17\" HDMI Teclado e Mouse, Preto",
+    "price": "R$ 1.575,00",
+    "image": "https://m.media-amazon.com/images/I/71M413pLVHL._AC_UL320_.jpg"
+  },
+  {
+    "id": 143,
+    "title": "PC Gamer ITX Arena Setup Powered By Asus, I5 10400F, Asus GTX 1650 4GB, 16GB, SSD 480GB, 3 Anos Garantia",
+    "price": "R$ 4.999,00",
+    "image": "https://m.media-amazon.com/images/I/61-FZjjt7bL._AC_UL320_.jpg"
+  },
+  {
+    "id": 144,
+    "title": "Computador Desktop Business Intel Core i5 3.4Ghz/ 8Gb DDR3/ SSD 480GB",
+    "price": "R$ 2.000,90",
+    "image": "https://m.media-amazon.com/images/I/31Yy3Q9Z9GL._AC_UL320_.jpg"
+  },
+  {
+    "id": 145,
+    "title": "Season 01",
+    "price": "Null",
+    "image": "https://m.media-amazon.com/images/I/71EUmRIvXlL._AC_UL320_.jpg"
+  },
+  {
+    "id": 146,
+    "title": "COMPUTADOR CORPORATE I5 4GB 120GB SSD MONITOR 15",
+    "price": "R$ 1.305,47",
+    "image": "https://m.media-amazon.com/images/I/51qYlJ474EL._AC_UL320_.jpg"
+  },
+  {
+    "id": 147,
+    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 180,66",
+    "image": "https://m.media-amazon.com/images/I/61cB79ONTYL._AC_UL320_.jpg"
+  },
+  {
+    "id": 148,
+    "title": "Mochila para laptop com alça de liga e alça de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 185,82",
+    "image": "https://m.media-amazon.com/images/I/610DD5DBZBL._AC_UL320_.jpg"
+  },
+  {
+    "id": 149,
+    "title": "Mochila para laptop com alça de liga de negócios, bolsa de nylon para computador com porta de carregamento USB",
+    "price": "R$ 185,82",
+    "image": "https://m.media-amazon.com/images/I/61f7Q3TiBML._AC_UL320_.jpg"
+  },
+  {
+    "id": 150,
+    "title": "Computador Pc Cpu Intel Core i5 Com HDMI 16GB HD 500GB Windows 10 + BRINDE Wifi Desktop LIQUIDAÇÃO",
+    "price": "R$ 1.899,92",
+    "image": "https://m.media-amazon.com/images/I/31uIt1bd3WS._AC_UL320_.jpg"
+  },
+  {
+    "id": 151,
+    "title": "Computador Pc Intel Core i3 4GB SSD 120GB Hdmi Teclado e Mouse Cpu Desktop",
+    "price": "R$ 1.109,00",
+    "image": "https://m.media-amazon.com/images/I/51DR+PlgiKL._AC_UL320_.jpg"
+  },
+  {
+    "id": 152,
+    "title": "Cpu Computador Pc Intel Core I5 / Ssd 480gb, 8gb Memória Ram OFERTA",
+    "price": "R$ 2.050,00",
+    "image": "https://m.media-amazon.com/images/I/31Dx3qbeXQL._AC_UL320_.jpg"
+  },
+  {
+    "id": 153,
+    "title": "Strong Tech Computador Completo Intel Core i5 8GB HD 1TB Monitor 19\" HDMI Teclado e Mouse, Preto",
+    "price": "R$ 1.850,00",
+    "image": "https://m.media-amazon.com/images/I/71O8fkER6lL._AC_UL320_.jpg"
+  },
+  {
+    "id": 154,
+    "title": "Computador Intel Core i3 8gb Ssd 240GB",
+    "price": "R$ 1.108,33",
+    "image": "https://m.media-amazon.com/images/I/41I4wHvOCYL._AC_UL320_.jpg"
+  },
+  {
+    "id": 155,
+    "title": "Computador desktop, 3 portas USB 3.0 Mini computador 64 GB SSD 4 GB RAM 1920x1080 Ventilador de refrigeração para escritório doméstico para Windows11",
+    "price": "R$ 988,71",
+    "image": "https://m.media-amazon.com/images/I/51VEa2Z6qsL._AC_UL320_.jpg"
+  },
+  {
+    "id": 156,
+    "title": "GOWENIC Mini PC para Windows 10 Home, 8GB LPDDR4 128GB M.2 2242 SSD Mini Computador para Celeron J4125, Ultra HD 4K, 2.4G/5.8G WiFi, BT 4.2, 2 USB3.0, HDMI, USB C, Mini PC Compacto para Jogos (EUA)",
+    "price": "R$ 1.082,37",
+    "image": "https://m.media-amazon.com/images/I/614MiWBZjwL._AC_UL320_.jpg"
+  },
+  {
     "id": 157,
-    "title": "Computador Intel Core i5 8GB SSD 480GB Hdmi Desktop Pc",
-    "price": "R$ 1.333,64",
-    "image": "https://m.media-amazon.com/images/I/61f5xKxeEaL._AC_UL320_.jpg"
+    "title": "Kit de limpeza multifuncional 7 em 1, caneta de limpeza para fone de ouvido de teclado, kit de escova de limpeza de fone de ouvido bluetooth teclado de tela portátil portátil, para computador/lente de câmera/monitor",
+    "price": "R$ 74,99",
+    "image": "https://m.media-amazon.com/images/I/51YfrhS8csL._AC_UL320_.jpg"
+  },
+  {
+    "id": 158,
+    "title": "Microfone USB, Microfone Gaming, Microfone Condensador de PC, ZiZuuBar com Botão Flick Mute Microfone Cardioide com Luzes LED RGB para Podcasting, Gravação de Streaming, Facebook, Twitch, YouTube, Plug and Play, Compatível com Mac/Linux/Ps4/computador",
+    "price": "R$ 320,00",
+    "image": "https://m.media-amazon.com/images/I/61Y8auV8zjL._AC_UL320_.jpg"
+  },
+  {
+    "id": 159,
+    "title": "UnionSine Disco Rígido Externo Portátil Ultra Fino USB3.0 HDD De Armazenamento Compatível Para Computador, Desktop, Notebook (500GB, Preto)",
+    "price": "R$ 196,00",
+    "image": "https://m.media-amazon.com/images/I/61XVAme6q+L._AC_UL320_.jpg"
+  },
+  {
+    "id": 160,
+    "title": "Suporte Base De Apoio Ergonômico Para Computador com Suporte para Celular",
+    "price": "R$ 158,00",
+    "image": "https://m.media-amazon.com/images/I/61yLoIWPr6L._AC_UL320_.jpg"
+  },
+  {
+    "id": 161,
+    "title": "Computador CPU Core 2 Duo Memoria 4GB HD 500gb",
+    "price": "R$ 899,00",
+    "image": "https://m.media-amazon.com/images/I/51TiEDbthpL._AC_UL320_.jpg"
+  },
+  {
+    "id": 162,
+    "title": "Computador CPU i5 3ªG, 4GB DDR3, SSD 240GB ~ Promoção",
+    "price": "R$ 1.725,00",
+    "image": "https://m.media-amazon.com/images/I/41oGvNvLqAL._AC_UL320_.jpg"
+  },
+  {
+    "id": 163,
+    "title": "Computador CPU i5 4ªG, 4GB DDR3, SSD 120GB ~ Promoção",
+    "price": "R$ 1.715,00",
+    "image": "https://m.media-amazon.com/images/I/513I3br3ZVL._AC_UL320_.jpg"
+  },
+  {
+    "id": 164,
+    "title": "Computador Desktop Jab Computadores Intel Core I5 2400 3.1 GhZ, Memoria RAM DDR3 de 8GB + SSD 240 Gb + Teclado + Mouse",
+    "price": "R$ 1.549,00",
+    "image": "https://m.media-amazon.com/images/I/51hd5nENanL._AC_UL320_.jpg"
+  },
+  {
+    "id": 165,
+    "title": "Computador CPU i5 2ªG, 4GB DDR3, SSD 480GB ~ Promoção",
+    "price": "R$ 1.785,00",
+    "image": "https://m.media-amazon.com/images/I/51yclN6fOkL._AC_UL320_.jpg"
+  },
+  {
+    "id": 166,
+    "title": "Computador Pc Intel Core i5 4GB HD 2TB Hdmi Cpu Desktop",
+    "price": "R$ 1.399,67",
+    "image": "https://m.media-amazon.com/images/I/61rQVZclvTL._AC_UL320_.jpg"
   }
 ]
